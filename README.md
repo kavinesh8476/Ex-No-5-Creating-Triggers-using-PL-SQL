@@ -66,7 +66,7 @@ SELECT * FROM sal_log;
 
 ```
 ### Output:
-![image](https://github.com/BharathCSEIOT/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/122793480/51e5e56e-b792-4612-88e7-235dde93af95)
+![db](https://github.com/kavinesh8476/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/118466561/e932b045-ddc2-447d-b313-e872a255977f)
 
 ### Result:
 The program has been implemented successfully.
